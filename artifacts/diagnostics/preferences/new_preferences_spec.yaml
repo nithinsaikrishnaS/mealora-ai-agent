@@ -1,0 +1,16 @@
+preferences:
+  - name: calories
+    type: integer
+    default: 2000
+    description: "Daily calorie target"
+  - name: excluded_ingredients
+    type: list[string]
+    default: []
+    description: "Specific ingredients to avoid (separate from allergies)"
+  - name: macros
+    type: object
+    properties:
+      protein: integer
+      carbs: integer
+      fats: integer
+    description: "Macronutrient distribution percentage"

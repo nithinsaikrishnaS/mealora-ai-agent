@@ -1,0 +1,82 @@
+{
+  "days": [
+    {
+      "day": 1,
+      "meals": [
+        {
+          "name": "Meal 1",
+          "ingredients": [
+            "Ingredient A",
+            "Ingredient B"
+          ]
+        },
+        {
+          "name": "Meal 2",
+          "ingredients": [
+            "Ingredient A",
+            "Ingredient B"
+          ]
+        },
+        {
+          "name": "Meal 3",
+          "ingredients": [
+            "Ingredient A",
+            "Ingredient B"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "meals": [
+        {
+          "name": "Meal 1",
+          "ingredients": [
+            "Ingredient A",
+            "Ingredient B"
+          ]
+        },
+        {
+          "name": "Meal 2",
+          "ingredients": [
+            "Ingredient A",
+            "Ingredient B"
+          ]
+        },
+        {
+          "name": "Meal 3",
+          "ingredients": [
+            "Ingredient A",
+            "Ingredient B"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "meals": [
+        {
+          "name": "Meal 1",
+          "ingredients": [
+            "Ingredient A",
+            "Ingredient B"
+          ]
+        },
+        {
+          "name": "Meal 2",
+          "ingredients": [
+            "Ingredient A",
+            "Ingredient B"
+          ]
+        },
+        {
+          "name": "Meal 3",
+          "ingredients": [
+            "Ingredient A",
+            "Ingredient B"
+          ]
+        }
+      ]
+    }
+  ]
+}

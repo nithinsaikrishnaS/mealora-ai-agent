@@ -1,0 +1,38 @@
+{
+    "title": "Preferences",
+    "type": "object",
+    "properties": {
+        "days": {
+            "type": "integer"
+        },
+        "meals_per_day": {
+            "type": "integer"
+        },
+        "diet": {
+            "type": "string"
+        },
+        "allergies": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "cuisine": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "budget": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "days",
+        "meals_per_day",
+        "diet",
+        "allergies",
+        "cuisine",
+        "budget"
+    ]
+}

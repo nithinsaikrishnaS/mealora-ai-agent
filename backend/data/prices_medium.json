@@ -1,0 +1,312 @@
+{
+    "onion": {
+        "kg": 30.00,
+        "unit": 5.00,
+        "lb": 15.00
+    },
+    "tomato": {
+        "kg": 40.00,
+        "unit": 5.00,
+        "lb": 20.00
+    },
+    "potato": {
+        "kg": 30.00,
+        "unit": 5.00,
+        "lb": 15.00
+    },
+    "garlic": {
+        "kg": 150.00,
+        "unit": 10.00,
+        "clove": 2.00,
+        "g": 0.15
+    },
+    "ginger": {
+        "kg": 120.00,
+        "inch": 5.00,
+        "g": 0.12
+    },
+    "chicken breast": {
+        "kg": 300.00,
+        "lb": 140.00,
+        "gram": 0.30
+    },
+    "chicken": {
+        "kg": 240.00,
+        "lb": 110.00
+    },
+    "ground beef": {
+        "kg": 400.00,
+        "lb": 180.00
+    },
+    "mutton": {
+        "kg": 800.00,
+        "lb": 360.00
+    },
+    "fish": {
+        "kg": 400.00,
+        "lb": 180.00,
+        "fillet": 100.00
+    },
+    "rice": {
+        "kg": 60.00,
+        "cup": 10.00,
+        "lb": 30.00
+    },
+    "basmati rice": {
+        "kg": 100.00,
+        "cup": 20.00
+    },
+    "brown rice": {
+        "kg": 120.00,
+        "cup": 25.00
+    },
+    "atta": {
+        "kg": 40.00,
+        "cup": 5.00
+    },
+    "flour": {
+        "kg": 40.00,
+        "cup": 5.00
+    },
+    "maida": {
+        "kg": 45.00,
+        "cup": 6.00
+    },
+    "besan": {
+        "kg": 90.00,
+        "cup": 12.00
+    },
+    "suji": {
+        "kg": 50.00,
+        "cup": 8.00
+    },
+    "poha": {
+        "kg": 60.00,
+        "cup": 5.00
+    },
+    "dal": {
+        "kg": 120.00,
+        "cup": 25.00
+    },
+    "lentils": {
+        "kg": 120.00,
+        "cup": 25.00
+    },
+    "toor dal": {
+        "kg": 140.00,
+        "cup": 30.00
+    },
+    "moong dal": {
+        "kg": 120.00,
+        "cup": 25.00
+    },
+    "urad dal": {
+        "kg": 130.00,
+        "cup": 28.00
+    },
+    "chana dal": {
+        "kg": 100.00,
+        "cup": 20.00
+    },
+    "paneer": {
+        "kg": 400.00,
+        "pack": 80.00,
+        "cup": 60.00
+    },
+    "milk": {
+        "l": 60.00,
+        "cup": 15.00,
+        "packet": 30.00,
+        "ml": 0.06
+    },
+    "coconut milk": {
+        "l": 200.00,
+        "cup": 50.00,
+        "ml": 0.20,
+        "can": 100.00
+    },
+    "egg": {
+        "unit": 7.00,
+        "dozen": 84.00
+    },
+    "bread": {
+        "loaf": 40.00,
+        "slice": 2.00
+    },
+    "butter": {
+        "pack": 56.00,
+        "tbsp": 5.00,
+        "kg": 560.00
+    },
+    "ghee": {
+        "kg": 600.00,
+        "tbsp": 10.00,
+        "l": 550.00,
+        "tsp": 3.00
+    },
+    "oil": {
+        "l": 150.00,
+        "tbsp": 2.00,
+        "tsp": 0.70
+    },
+    "olive oil": {
+        "l": 800.00,
+        "tbsp": 12.00
+    },
+    "mustard oil": {
+        "l": 160.00,
+        "tbsp": 2.50
+    },
+    "coconut oil": {
+        "l": 250.00,
+        "tbsp": 4.00
+    },
+    "salt": {
+        "kg": 20.00,
+        "tsp": 0.10,
+        "tbsp": 0.30
+    },
+    "sugar": {
+        "kg": 45.00,
+        "cup": 10.00,
+        "tsp": 0.20,
+        "tbsp": 0.60
+    },
+    "jaggery": {
+        "kg": 60.00,
+        "cup": 15.00
+    },
+    "spices": {
+        "pack": 50.00,
+        "tsp": 2.00,
+        "tbsp": 5.00
+    },
+    "turmeric": {
+        "pack": 40.00,
+        "tsp": 1.00
+    },
+    "chilli powder": {
+        "pack": 60.00,
+        "tsp": 1.50
+    },
+    "coriander powder": {
+        "pack": 50.00,
+        "tsp": 1.50
+    },
+    "cumin": {
+        "pack": 80.00,
+        "tsp": 2.00
+    },
+    "mustard seeds": {
+        "pack": 40.00,
+        "tsp": 1.00
+    },
+    "pepper": {
+        "pack": 100.00,
+        "tsp": 3.00
+    },
+    "cardamom": {
+        "pack": 200.00,
+        "unit": 2.00,
+        "tsp": 10.00
+    },
+    "cinnamon": {
+        "pack": 50.00,
+        "stick": 5.00,
+        "inch": 2.00
+    },
+    "clove": {
+        "pack": 100.00,
+        "unit": 1.00
+    },
+    "garam masala": {
+        "pack": 80.00,
+        "tsp": 2.50
+    },
+    "coriander": {
+        "bunch": 20.00,
+        "pack": 10.00
+    },
+    "mint": {
+        "bunch": 15.00
+    },
+    "curry leaves": {
+        "bunch": 10.00,
+        "sprig": 2.00
+    },
+    "spinach": {
+        "bunch": 30.00,
+        "kg": 60.00
+    },
+    "cauliflower": {
+        "unit": 40.00,
+        "kg": 50.00
+    },
+    "cabbage": {
+        "unit": 30.00,
+        "kg": 40.00
+    },
+    "capsicum": {
+        "kg": 60.00,
+        "unit": 10.00
+    },
+    "carrot": {
+        "kg": 50.00,
+        "unit": 5.00
+    },
+    "beans": {
+        "kg": 60.00
+    },
+    "peas": {
+        "kg": 80.00,
+        "cup": 20.00
+    },
+    "okra": {
+        "kg": 40.00
+    },
+    "brinjal": {
+        "kg": 40.00,
+        "unit": 10.00
+    },
+    "apple": {
+        "kg": 150.00,
+        "unit": 25.00
+    },
+    "banana": {
+        "dozen": 60.00,
+        "unit": 5.00
+    },
+    "mango": {
+        "kg": 100.00,
+        "unit": 30.00
+    },
+    "yogurt": {
+        "cup": 20.00,
+        "kg": 80.00,
+        "pack": 40.00
+    },
+    "curd": {
+        "cup": 20.00,
+        "kg": 80.00,
+        "pack": 40.00
+    },
+    "cucumber": {
+        "kg": 40.00,
+        "unit": 10.00
+    },
+    "lemon": {
+        "unit": 5.00
+    },
+    "green chilli": {
+        "kg": 80.00,
+        "unit": 1.00
+    },
+    "chilli": {
+        "kg": 80.00,
+        "unit": 1.00
+    },
+    "chilies": {
+        "kg": 80.00,
+        "unit": 1.00
+    }
+}

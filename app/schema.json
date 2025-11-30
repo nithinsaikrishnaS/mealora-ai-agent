@@ -1,0 +1,107 @@
+{
+  "type": "object",
+  "properties": {
+    "days": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "day": {
+            "type": "integer"
+          },
+          "meals": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string",
+                  "description": "Name of the meal"
+                },
+                "recipe_id": {
+                  "type": "string",
+                  "description": "Unique identifier for the recipe (e.g., 'recipe_123')"
+                },
+                "short_description": {
+                  "type": "string",
+                  "description": "A brief, appetizing description of the meal"
+                },
+                "ingredients": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "quantity": {
+                        "type": "number"
+                      },
+                      "unit": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "quantity",
+                      "unit"
+                    ]
+                  }
+                },
+                "instructions": {
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "description": "Step-by-step cooking instructions"
+                  }
+                },
+                "tags": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "description": "Dietary and lifestyle tags"
+                },
+                "nutrition_info": {
+                  "type": "object",
+                  "properties": {
+                    "calories": {
+                      "type": "integer"
+                    },
+                    "protein": {
+                      "type": "integer",
+                      "description": "grams"
+                    },
+                    "carbs": {
+                      "type": "integer",
+                      "description": "grams"
+                    },
+                    "fat": {
+                      "type": "integer",
+                      "description": "grams"
+                    }
+                  },
+                  "required": [
+                    "calories",
+                    "protein",
+                    "carbs",
+                    "fat"
+                  ]
+                }
+              },
+              "required": [
+                "name",
+                "recipe_id",
+                "short_description",
+                "ingredients",
+                "instructions",
+                "tags",
+                "nutrition_info"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

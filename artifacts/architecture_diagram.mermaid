@@ -1,0 +1,21 @@
+graph TD
+    A[User Preferences] -->|Prompt Engineering| B(AI Planner Agent)
+    B -->|JSON Output| C{Schema Validation}
+    C -->|Valid Plan| D[Meal Plan Display]
+    C -->|Invalid| B
+    D -->|Ingredient List| E(Ingredient Parser)
+    E -->|Structured Data| F(Grocery Aggregator)
+    F -->|Categorized List| G[Grocery List Display]
+    
+    subgraph Backend
+    B
+    C
+    E
+    F
+    end
+    
+    subgraph Frontend
+    A
+    D
+    G
+    end

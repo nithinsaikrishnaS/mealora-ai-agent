@@ -1,0 +1,11 @@
+streamlit
+pandas
+pytest
+openai
+python-dotenv
+google-generativeai
+fpdf
+sqlalchemy
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart

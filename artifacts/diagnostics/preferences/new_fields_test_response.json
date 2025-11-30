@@ -1,0 +1,7 @@
+{
+    "status": 200,
+    "message": "Backend accepted the request but likely ignored the 'calories' field because it is not in the Pydantic model.",
+    "payload_sent": {
+        "calories": 2000
+    }
+}
