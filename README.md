@@ -88,4 +88,4 @@ Mealora is an AI-powered meal planner that creates personalized weekly meal plan
 
 ## License
 
-MIT
+Kaggle writeups: https://creativecommons.org/licenses/by/4.0/
